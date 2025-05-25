@@ -49,7 +49,7 @@ To ensure the Truck Lagbe website delivers a seamless, bug-free experience for e
 
 ## 🎯 Test Scope & Exclusions
 
-### In Scope 
+**In Scope**
 | Module               | Test Coverage Details                             |
 |----------------------|--------------------------------------------------|
 | User Authentication  | Email validation, OTP                         |
@@ -57,7 +57,7 @@ To ensure the Truck Lagbe website delivers a seamless, bug-free experience for e
 | Customer Support     | Live Chat, FAQs, support ticket               |
 | UI Components        | Responsiveness (desktop/mobile), button states  |
 
-### Out of Scope
+**Out of Scope**
 | Item                 | Reason for Exclusion                          |
 |----------------------|-----------------------------------------------|
 | Payment Gateways     | Third-party dependency                       |
@@ -97,7 +97,7 @@ To ensure the Truck Lagbe website delivers a seamless, bug-free experience for e
 
 ## 📚 Project Context
 
-### This is a personal testing project developed as part of my QA training program, designed to:
+**This is a personal testing project developed as part of my QA training program, designed to:**
 
 1. Practice manual testing methodologies in a real-world scenario
 
