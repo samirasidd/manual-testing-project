@@ -79,8 +79,9 @@ To ensure the Truck Lagbe website delivers a seamless, bug-free experience for e
 
 ---
 
-📚 Project Context
-This is a personal testing project developed as part of my QA training program, designed to:
+## 📚 Project Context
+
+### This is a personal testing project developed as part of my QA training program, designed to:
 
 Practice manual testing methodologies in a real-world scenario
 
@@ -88,8 +89,11 @@ Build expertise in creating test plans, cases, and reports
 
 Demonstrate QA skills for professional development
 
-🎓 Key Learnings
-Through testing TruckLagbe.com, I've:
+---
+
+## 🎓 Key Learnings
+
+### Through testing TruckLagbe.com, I've:
 
 1. Technical Skills
 ✔️ Designed 106+ test cases covering functional, UI, and compatibility testing
@@ -107,5 +111,7 @@ Through testing TruckLagbe.com, I've:
 4. Training Outcomes
 ✔️ Applied classroom concepts to a live web application
 ✔️ Created a portfolio piece showcasing QA capabilities
+
+---
 
 
