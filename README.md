@@ -16,7 +16,7 @@
 Application Under Test (AUT): TruckLagbe.com (https://trucklagbe.com)  
 Test Plan ID: TP-TruckLagbe-01
 Testing Phase: Functional | Compatibility   
-Duration: [Start_Date] - Present (Ongoing) 
+Duration: 3/5/2025 - Present (Ongoing) 
 
 ### Objective 
 To ensure the Truck Lagbe website delivers a seamless, bug-free experience for end-users, truck owners, and admins by validating core functionalities, UI consistency, and cross-browser compatibility.  
