@@ -8,8 +8,7 @@
 2. Test Scope & Exclusions
 3. Test Strategy & Approach
 4. Test Execution Summary
-5. Key Takeaways & Recommendations
-6. Contact
+5. Project Context & Key Learnings
 
 ---
 
