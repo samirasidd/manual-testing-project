@@ -2,8 +2,21 @@
 *Comprehensive Quality Assurance Documentation for Bangladesh's Leading Truck Booking Platform*  
 
 ---
-[![Documentation](https://img.shields.io/badge/View-Full%20Docs-blue)](https://docs.google.com/spreadsheets/d/1E1uTlKUjw9zoMBcSWBy8dG-ALCkYALyLnFu_yu9Lv3g/edit?usp=sharing)  
 
+## 📊 Test Documentation
+
+### Truck Lagbe Test Cases
+🔗 [View Live Test Case Sheet](https://docs.google.com/spreadsheets/d/1E1uTlKUjw9zoMBcSWBy8dG-ALCkYALyLnFu_yu9Lv3g/edit?usp=sharing)
+
+**Sheet Contents:**
+- 106 manual test cases
+- Defect tracking log (19 identified issues)
+- Mindmap of test coverage
+
+**Access Notes:**
+1. Requires Google account
+2. Set to "View Only" by default
+3. Request edit access if needed
 ---
 
 ## 📜 Table of Contents
