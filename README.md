@@ -97,7 +97,7 @@ To ensure the Truck Lagbe website delivers a seamless, bug-free experience for e
 
 ## 📚 Project Context
 
-**This is a personal testing project developed as part of my QA training program, designed to:**
+### This is a personal testing project developed as part of my QA training program, designed to:
 
 1. Practice manual testing methodologies in a real-world scenario
 
