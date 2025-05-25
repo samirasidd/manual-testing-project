@@ -3,6 +3,16 @@
 
 ---
 
+## 📜 Table of Contents
+1. Test Documentation
+2. Project Overview
+3. Test Scope & Exclusions
+4. Test Strategy & Approach
+5. Test Execution Summary
+6. Project Context & Key Learnings
+
+---
+
 ## 📊 Test Documentation
 
 ### Truck Lagbe Test Cases
@@ -17,15 +27,6 @@
 1. Requires Google account
 2. Set to "View Only" by default
 3. Request edit access if needed
----
-
-## 📜 Table of Contents
-1. Project Overview
-2. Test Scope & Exclusions
-3. Test Strategy & Approach
-4. Test Execution Summary
-5. Project Context & Key Learnings
-
 ---
 
 ## 🌐 Project Overview
@@ -110,19 +111,19 @@ To ensure the Truck Lagbe website delivers a seamless, bug-free experience for e
 
 ### Through testing TruckLagbe.com, I've:
 
-1. Technical Skills
+**1. Technical Skills**
 
 ✔️ Designed 106+ test cases covering functional, UI, and compatibility testing
 
 ✔️ Documented defects with clear reproduction steps and severity prioritization
 
-2. Domain Knowledge
+**2. Domain Knowledge**
 
 ✔️ Understood logistics platform workflows (booking, bidding, cancellations)
 
 ✔️ Learned accessibility standards (keyboard nav, screen readers)
 
-3. Professional Growth
+**3. Professional Growth**
 
 ✔️ Gained experience in IEEE 829 test documentation standards
 
@@ -130,7 +131,7 @@ To ensure the Truck Lagbe website delivers a seamless, bug-free experience for e
 
 ✔️ Developed habits for organized test tracking (mindmaps, repo structures)
 
-4. Training Outcomes
+**4. Training Outcomes**
 
 ✔️ Applied classroom concepts to a live web application
 
