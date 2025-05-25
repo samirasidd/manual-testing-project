@@ -2,6 +2,9 @@
 *Comprehensive Quality Assurance Documentation for Bangladesh's Leading Truck Booking Platform*  
 
 ---
+[![Documentation](https://img.shields.io/badge/View-Full%20Docs-blue)](https://docs.google.com/spreadsheets/d/1E1uTlKUjw9zoMBcSWBy8dG-ALCkYALyLnFu_yu9Lv3g/edit?usp=sharing)  
+
+---
 
 ## 📜 Table of Contents
 1. Project Overview
