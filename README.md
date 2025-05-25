@@ -97,24 +97,28 @@ To ensure the Truck Lagbe website delivers a seamless, bug-free experience for e
 1. Technical Skills
 
 ✔️ Designed 106+ test cases covering functional, UI, and compatibility testing
+
 ✔️ Documented defects with clear reproduction steps and severity prioritization
 
 2. Domain Knowledge
 
 ✔️ Understood logistics platform workflows (booking, bidding, cancellations)
+
 ✔️ Learned accessibility standards (keyboard nav, screen readers)
 
 3. Professional Growth
 
 ✔️ Gained experience in IEEE 829 test documentation standards
+
 ✔️ Improved analytical skills for identifying edge cases
+
 ✔️ Developed habits for organized test tracking (mindmaps, repo structures)
 
 4. Training Outcomes
 
 ✔️ Applied classroom concepts to a live web application
+
 ✔️ Created a portfolio piece showcasing QA capabilities
 
----
 
 
